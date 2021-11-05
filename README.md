@@ -11,8 +11,8 @@
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
-![plot](assets/Screenshot%20from%202021-11-04%2023-26-08.png)
-![plot](assets/Screenshot%20from%202021-11-04%2023-26-29.png)
+![GitHub Logo](assets/Screenshot%20from%202021-11-04%2023-26-08.png)
+![GitHub Logo](assets/Screenshot%20from%202021-11-04%2023-26-29.png)
 
 The weather forecast, one of the best weather application on store, one of the best choose fore you.
 Weather forecast, which has accurate weather information for anytime and everywhere.
