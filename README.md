@@ -1,8 +1,8 @@
 ### Hi there, I'm Behruz Hurramov - ARISTECH
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+     I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ![plot](assets/Screenshot%20from%202021-11-04%2023-26-08.png)
