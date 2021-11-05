@@ -5,8 +5,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-![GitHub Logo](assets/Screenshot%20from%202021-11-04%2023-26-08.png)
-![GitHub Logo](assets/Screenshot%20from%202021-11-04%2023-26-29.png)
 
 The weather forecast, one of the best weather application on store, one of the best choose fore you.
 Weather forecast, which has accurate weather information for anytime and everywhere.
