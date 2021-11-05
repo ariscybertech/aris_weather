@@ -1,5 +1,17 @@
 ### Hi there, I'm Behruz Hurramov - ARISTECH
 
+
+## Getting Started
+
+```dart
+$ git clone https://github.com/ariscybertech/aris_weather.git
+$ flutter packages get
+```
+Run the application and enjoy :tada:
+
+Using weather application and get weather information daily and daily.
+Download weather forecast for free and experience. The high-quality weather forecast application across your Android devices.
+
 - 🌱 I’m currently learning everything
      I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -29,13 +41,4 @@ Features:
 - Chart to manage and view hourly and daily weather
 - Change unit setting: Temperature (C/F), Time format (12h/24h), Precipitation (mm, inch), wind speed (km/h, mi/h, m/s), pressure (mmhg, hPa, mbar)
 
-## Getting Started
 
-```dart
-$ git clone https://github.com/ariscybertech/aris_weather.git
-$ flutter packages get
-```
-Run the application and enjoy :tada:
-
-Using weather application and get weather information daily and daily.
-Download weather forecast for free and experience. The high-quality weather forecast application across your Android devices.
