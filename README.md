@@ -5,6 +5,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+
+<p align="center">
+  <img src="assets/Screenshot%20from%202021-11-04%2023-26-08.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 ![plot](assets/Screenshot%20from%202021-11-04%2023-26-08.png)
 ![plot](assets/Screenshot%20from%202021-11-04%2023-26-29.png)
 
