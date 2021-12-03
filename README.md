@@ -7,7 +7,7 @@
 $ git clone https://github.com/ariscybertech/aris_weather.git
 $ flutter packages get
 ```
-Run the application and enjoy :tada:
+Run the application and enjoy :tada::relaxed:
 
 Using weather application and get weather information daily and daily.
 Download weather forecast for free and experience. The high-quality weather forecast application across your Android devices.
