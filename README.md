@@ -1,6 +1,9 @@
 ### Hi there, I'm Behruz Hurramov - ARISTECH
 
 
+![MobileScreenshot](screenshots/screen.png)
+![MobileScreenshot](screenshots/screen1.png)
+
 ## Getting Started
 
 ```dart
