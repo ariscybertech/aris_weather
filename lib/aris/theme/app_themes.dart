@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:aris_weather_app/theme/app_colors.dart';
+import 'package:aris_weather_app/aris/theme/app_colors.dart';
 
 class AppThemes {
   static ThemeData appTheme = ThemeData(

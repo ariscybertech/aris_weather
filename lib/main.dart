@@ -1,7 +1,7 @@
-import 'package:aris_weather_app/theme/app_themes.dart';
+import 'package:aris_weather_app/aris/theme/app_themes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:aris_weather_app/modules/search/search_page.dart';
+import 'package:aris_weather_app/aris/modules/search/search_page.dart';
 
 void main() { 
   runApp(MyApp());

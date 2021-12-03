@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 import 'package:mobx/mobx.dart';
-import 'package:aris_weather_app/modules/search/repositories/weather_api_client.dart';
+import 'package:aris_weather_app/aris/modules/search/repositories/weather_api_client.dart';
 
 import '../../models/weather_model.dart';
 

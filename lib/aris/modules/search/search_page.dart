@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
-import 'package:aris_weather_app/modules/search/results/error_page.dart';
-import 'package:aris_weather_app/modules/search/results/result_page.dart';
-import 'package:aris_weather_app/modules/search/results/search_home.dart';
-import 'package:aris_weather_app/modules/search/search_controller.dart';
-import 'package:aris_weather_app/theme/app_colors.dart';
+import 'package:aris_weather_app/aris/modules/search/results/error_page.dart';
+import 'package:aris_weather_app/aris/modules/search/results/result_page.dart';
+import 'package:aris_weather_app/aris/modules/search/results/search_home.dart';
+import 'package:aris_weather_app/aris/modules/search/search_controller.dart';
+import 'package:aris_weather_app/aris/theme/app_colors.dart';
 
 final controller = SearchController();
 
