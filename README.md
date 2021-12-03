@@ -1,7 +1,7 @@
 ### Hi there, I'm Behruz Hurramov - ARISTECH
 
 
-![MobileScreenshot](screenshots/screen.png)
+![MobileScreenshot](screenshots/screenshot.png)
 
 ## Getting Started
 
