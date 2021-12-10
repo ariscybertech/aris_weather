@@ -1,5 +1,3 @@
-### Hi there, I'm Behruz Hurramov - ARISTECH
-
 <h1 align="center">Aris Weather</h1>
 
 <br />
